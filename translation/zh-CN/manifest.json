@@ -1,9 +1,9 @@
 {
-  "entryCount": 50900,
-  "generatedAt": "2026-11-06T12:32:43+09:00",
+  "entryCount": 51343,
+  "generatedAt": "2026-11-13T15:28:50+09:00",
   "language": "zh-CN",
   "packFile": "pack.json",
-  "packSha256": "dd03f6920edbdec5a123bdf5a34b45515b8fe0709b27d827486dcf25c8ab83fe",
-  "sceneCount": 725,
+  "packSha256": "338a910c969a649077db6bbb51029c7f92e3aabc35c9a2c5b7feef5a9be263ee",
+  "sceneCount": 734,
   "schemaVersion": 1
 }
